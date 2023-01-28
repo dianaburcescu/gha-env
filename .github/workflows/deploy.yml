@@ -9,7 +9,7 @@ env:
 jobs:
   test:
     env: 
-      MONGO_CLUSTER_ADDRESS: cluster0.saborev.mongodb.net
+      MONGODB_CLUSTER_ADDRESS: cluster0.saborev.mongodb.net
       MONGODB_USERNAME: kirachu
       MONGODB_PASSWORD: DbC@2025!
       PORT: 8080

@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": "file:///d%3A/Tutorials/Tools/GitHub%20Actions/Project/using-env-var-and-secrets/.github/workflows/deploy.yml"
+    }
+}
